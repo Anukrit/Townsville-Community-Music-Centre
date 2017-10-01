@@ -1,0 +1,116 @@
+body{
+font-family: verdana;
+font-size: 15px;
+}
+.navbar{
+min-height: 80px;
+}
+.nav.navbar-nav{
+    padding: 15px 0;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a {
+    color: white !important;
+}
+#navbar a{
+  color:white;
+}
+
+.blue-gradient {
+	background: linear-gradient(to right,#2e3192 0,#0066b3 100%) !important;
+    color: white;
+}
+
+.blue-gradient ul li a {
+    color: white;
+}
+
+.color-white{
+	color: white !important
+}
+
+.content{
+margin-top:5% !important;
+margin-left: 2% !important;
+margin-right: 2% !important;
+border:1px solid darkgray;
+border-radius:5px;
+padding:20px;
+}
+
+input[type="text"],input[type="password"]{
+padding:5px;
+background:white;
+border:1px solid lightgray;
+border-radius:5px;
+}
+
+input[type="button"],input[type="submit"]{
+background:white;
+border:1px solid darkgray;
+border-radius:3px;
+padding:5px;
+}
+
+input[type="button"]:hover,input[type="submit"]:hover{
+background:darkgray;
+border:1px solid lightgray;
+color:black !important;
+padding:7px;
+}
+
+.navbar-default .navbar-nav>.active>a{
+	color:black!important;
+}
+
+.logo{
+    width: 125px;
+    margin-right: 10px;
+}
+
+.color-red{
+	color:red;
+}
+
+.project-sponsors{
+	margin: 0 auto;
+    text-align: center;
+}
+.project-sponsors img{
+	text-align:center;
+	padding: 20px;
+	height: 200px;
+}
+
+.content{
+	border:none;
+}
+
+.margin-auto{
+	margin: 0 auto;
+}
+
+.margin-bottom-10{
+	margin-bottom:10px;
+}
+
+form {
+	font-size:18px;
+}
+.white-space-normal{
+	white-space: normal;
+}
+.clear-both{
+	clear:both;
+}
+
+hr.HR {
+    clear: both;
+    height: 4px;
+    width: 100%;
+    background: #900;
+    margin: 10px 0px 10px 0px;
+}
+
+.float-left{
+  float:left;
+}
